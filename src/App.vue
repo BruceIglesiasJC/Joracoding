@@ -1,7 +1,7 @@
 
 <template>
   <h1 className="text-3xl font-bold underline">
-      Hello world!
+      Manito, listo para comenzar con el proyeSEXO
   </h1>
 </template>
 
